@@ -20,7 +20,6 @@ In this tutorial, we are going to be learning how to create a virtual machine wi
 <h2>Operating Systems Used </h2>
 
 - Windows 10 (21H2)
-- Ubuntu Server 20.04
 
 <h2>High-Level Steps</h2>
 
