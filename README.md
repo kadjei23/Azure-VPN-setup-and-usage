@@ -2,7 +2,7 @@
 <img src="https://i.imgur.com/83eerhQ.png" alt="Connectivity Preview"/>
 </p>
 
-<h1>Network Security Groups (NSGs) and Inspecting Traffic Between Azure Virtual Machines</h1>
+<h1>VPN setup and forwarding traffic through virtual machine as well as showing connectivity.</h1>
 In this tutorial, we are going to be learning how to create a virtual machine within azure through windows and setting up a VPN with PROTONVPN.  <br />
 
 
