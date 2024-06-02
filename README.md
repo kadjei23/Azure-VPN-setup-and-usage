@@ -3,7 +3,7 @@
 </p>
 
 <h1>Network Security Groups (NSGs) and Inspecting Traffic Between Azure Virtual Machines</h1>
-In this tutorial, we are going to be learning how to create a virtual machine within azure and setting up a VPN through PROTONVPN.  <br />
+In this tutorial, we are going to be learning how to create a virtual machine within azure through windows and setting up a VPN with PROTONVPN.  <br />
 
 
 <h2>Video Demonstration</h2>
