@@ -6,10 +6,6 @@
 In this tutorial, we are going to be learning how to create a virtual machine within azure through windows and setting up a VPN with PROTONVPN.  <br />
 
 
-<h2>Video Demonstration</h2>
-
-- ### [YouTube: Azure Virtual Machines, Wireshark, and Network Security Groups](https://www.youtube.com)
-
 <h2>Environments and Technologies Used</h2>
 
 - Microsoft Azure (Virtual Machines)
