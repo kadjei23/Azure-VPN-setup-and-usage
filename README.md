@@ -32,6 +32,7 @@ In this tutorial, we are going to be learning how to create a virtual machine wi
  <h2>Creating and using our VPN through ProtonVPN</h2> 
 
 - Now that we are connected and ready to go we are going to be using a public website called whatismyipaddress to determine our personal computers IP Address, our VM's IP Address as well as the IP Address of the other computer in another country that we will connect to through our VPN. These addresses should all be different because they should be in different locations. <img src="https://i.imgur.com/anNF2b1.png" alt="Connect to VM PT.4"/>  <img src="https://i.imgur.com/SrDVsdA.png"/>
+- Next, within our VM we are going to download, sign up and use a free VPN server called PROTONVPN the objective is to connect to a server in a different country and browse in that country's server.  <img src="https://i.imgur.com/0x5M958.png"/>  <img src="https://i.imgur.com/8KMSQ5c.png"/>  <img src="https://i.imgur.com/Ma6nyAh.png"/>  <img src="https://i.imgur.com/08cXN85.png"/>
 
 
 
