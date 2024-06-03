@@ -15,14 +15,15 @@ In this tutorial, we are going to be learning how to create a virtual machine wi
   
 <h2>Operating Systems Used </h2>
 
-- Windows 10 (21H2)
+- Windows 10 (22H2)
 
 <h2>Creating a Virtual Machine in azure</h2>
 
 - So for creating a VM through azure, you sign in into azure then click on the virtual machine icon(blue monitor screen icon) or go to search and type in virtual machine.
-- https://i.imgur.com/477I2LJ.png
-- Step 2
-- Step 3
+-  <img src="https://i.imgur.com/477I2LJ.png" alt="VM Azure showcase"/>
+- After pressing Virtual machine you're then going to select create which then is going to bring you to a project detail screen. In this screen there are a couple things you have to fill in which are resource group, Virtual machine name, the region , availability options, security type, and image.
+- <img src="https://i.imgur.com/MXsLEDZ.png" alt="Detailed Screen"/>
+- For resource groups you can always create that first then have that VM inside the resource group. For this tutorial though we are going to let azure automatically create one for us. The virtual machine name is just a name you've assigned to the VM. The region indicates where the VM is going to be stationed but for this tutorial we're going to have it stationed somwehere that isn't america. Lastly, you're going to select what type of image you want displayed after the VM connects for this tutorial we're going to use Windows 10.
 - Step 4
 
 <h2>Actions and Observations</h2>
