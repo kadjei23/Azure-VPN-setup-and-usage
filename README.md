@@ -58,6 +58,6 @@ Now that we are sure we're connected we go have fun browsing the internet. First
 <img src="https://i.imgur.com/QVfthuO.png" height="80%" width="80%" alt="Browsing Youtube"/> <img src="https://i.imgur.com/hQjTY6T.png" height="80%" width="80%" alt="Watching Youtube"/> <img src="https://i.imgur.com/jTrtOt0.png" height="80%" width="80%" alt="Shopping at Glossier"/>
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+Here I'm doing more browsing as I went to youtube and went on AFC Ajax's Youtube page , then decided to go and watch some soccer highlights. Youtube ads played and I noticed the langauge was also in dutch as well as the soccer commentary. So if you're VPN is in any country the ads on the youtube videos or shows will be in their respective langauges. Decided to go next to the Glossier Amsterdam Website and even though the language is englsh the currency is in euros.
 </p>
 <br />
