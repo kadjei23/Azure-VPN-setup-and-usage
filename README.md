@@ -35,10 +35,8 @@ In this tutorial, we are going to be learning how to create a virtual machine wi
 - Next, within our VM we are going to download, sign up and use a free VPN server called PROTONVPN the objective is to connect to a server in a different country and browse in that country's server.  <img src="https://i.imgur.com/0x5M958.png"/>  <img src="https://i.imgur.com/8KMSQ5c.png"/>  <img src="https://i.imgur.com/Ma6nyAh.png"/>  <img src="https://i.imgur.com/08cXN85.png"/>
 
 
-
-
  
-<h2>Actions and Observations</h2>
+<h2>Actions and Observations inside ProtonVPN</h2>
 
 <p>
 <img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
