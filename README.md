@@ -20,7 +20,7 @@ In this tutorial, we are going to be learning how to create a virtual machine wi
 <h2>Creating a Virtual Machine in azure</h2>
 
 - So for creating a VM through azure, you sign in into azure then click on the virtual machine icon(blue monitor screen icon) or go to search and type in virtual machine.
-- 
+- https://i.imgur.com/477I2LJ.png
 - Step 2
 - Step 3
 - Step 4
