@@ -17,9 +17,10 @@ In this tutorial, we are going to be learning how to create a virtual machine wi
 
 - Windows 10 (21H2)
 
-<h2>High-Level Steps</h2>
+<h2>Creating a Virtual Machine in azure</h2>
 
-- Step 1
+- So for creating a VM through azure, you sign in into azure then click on the virtual machine icon(blue monitor screen icon) or go to search and type in virtual machine.
+- 
 - Step 2
 - Step 3
 - Step 4
