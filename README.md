@@ -3,7 +3,7 @@
 </p>
 
 <h1>VPN setup and forwarding traffic through virtual machine as well as showing connectivity.</h1>
-In this tutorial, we are going to be learning how to create a virtual machine within azure through windows and setting up a VPN with PROTONVPN.  <br />
+In this tutorial, we are going to be learning how to create a virtual machine within azure through windows and setting up a VPN with PROTONVPN. The objective is to show you how you can connect and browse through the internet in any country by using a VPN.  <br />
 
 
 <h2>Environments and Technologies Used</h2>
@@ -39,23 +39,23 @@ In this tutorial, we are going to be learning how to create a virtual machine wi
 <h2>Actions and Observations inside ProtonVPN</h2>
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/BzEp2CX.png" height="80%" width="80%" alt="Inside ProtonVPN"/>
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
-</p>
-<br />
-
-<p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-</p>
-<p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+Now that we're inside the protonVPN all we have to do is connect to a country's server. In our case that will be the Netherlands. Connecting to  it may disconnect our Remote desktop but not to worry we just have to reconnect our remote desktop once you do this you shoul dbe able to see that your VPN is conncted to whatever country you chose. To make sure our connection to the VPN is located in the Netherlands we have to go back to whatismyipaddress.com to check the IP and location inside our VM. <img src="https://i.imgur.com/AYAe2Pc.png" height="80%" width="80%" alt="IPaddress-Holland"/>
 </p>
 <br />
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/bsZ4Si2.png" height="80%" width="80%" alt="Browsing Netflix through VPN"/>
+</p>
+<p>
+Now that we are sure we're connected we go have fun browsing the internet. Firstly I went to Netlfix, as you can see the language is in dutch and the computer thinks we are in Holland.
+</p>
+<br />
+
+<p>
+<img src="https://i.imgur.com/QVfthuO.png" height="80%" width="80%" alt="Browsing Youtube"/> <img src="https://i.imgur.com/hQjTY6T.png" height="80%" width="80%" alt="Watching Youtube"/> <img src="https://i.imgur.com/jTrtOt0.png" height="80%" width="80%" alt="Shopping at Glossier"/>
 </p>
 <p>
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
